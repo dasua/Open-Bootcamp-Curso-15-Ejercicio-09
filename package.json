@@ -1,0 +1,23 @@
+{
+  "name": "open-bootcamp-curso-15-ejercicio-09",
+  "version": "1.0.0",
+  "description": "Open Bootcamp Curso 15 Ejercicio 09",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasua/Open-Bootcamp-Curso-15-Ejercicio-09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasua/Open-Bootcamp-Curso-15-Ejercicio-09/issues"
+  },
+  "homepage": "https://github.com/dasua/Open-Bootcamp-Curso-15-Ejercicio-09#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
